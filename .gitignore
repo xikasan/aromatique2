@@ -9,5 +9,5 @@ __pycache__/
 # build
 build/
 dist/
-aromatique.egg-info/
+aromatique2.egg-info/
 result/
